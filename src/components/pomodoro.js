@@ -23,7 +23,7 @@ class Pomodoro extends React.Component {
         super(props);
         this.state = {
             isStarted: false,
-            countdown: 500,
+            countdown: 300,
             isShow: true,
         };
 
